@@ -22,13 +22,14 @@ echo "<p> La longitud de cadena que dice $cadena1 es " . strlen($cadena1) . "</p
 
 //2. invertir string
 
-echo strrev($cadena1)."<br>";
+echo strrev($cadena1)."<br   >";
 $cadena2 ="garciadiego";
 
 
 //3. concatenar 2 string  
 
 echo "$cadena1 $cadena2" ;
+$cadena3="nancy";
 
 
 
