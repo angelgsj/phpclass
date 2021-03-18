@@ -30,6 +30,8 @@ $cadena2 ="garciadiego";
 
 echo "$cadena1 $cadena2" ;
 $cadena3="nancy";
+$cadena4 = "Espinosa" ;
+
 
 
 
